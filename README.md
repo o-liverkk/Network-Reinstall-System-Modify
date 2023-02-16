@@ -44,6 +44,8 @@
 </div>
 <br>
 
+`wget --no-check-certificate -qO ~/Network-Reinstall-System-Modify.sh 'https://github.com/o-liverkk/Network-Reinstall-System-Modify/raw/master/Network-Reinstall-System-Modify.sh' && chmod a+x ~/Network-Reinstall-System-Modify.sh && bash ~/Network-Reinstall-System-Modify.sh`
+
 <div align="center">
   <a href="https://www.cxthhhhh.com/">
     <img src="https://raw.githubusercontent.com/MeowLove/Network-Reinstall-System-Modify/master/background/CXT_Logo.png">
